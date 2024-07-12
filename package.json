@@ -102,11 +102,6 @@
   },
   "main": "index.js",
   "name": "@t00nday/nestjs-pdf",
-  "peerDependencies": {
-    "@nestjs/common": "^6.10.0",
-    "reflect-metadata": "^0.1.12",
-    "rxjs": "^6.0.0"
-  },
   "publishConfig": {
     "access": "public"
   },
